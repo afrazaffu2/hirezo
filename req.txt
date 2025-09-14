@@ -1,0 +1,9 @@
+google-generativeai 
+pandas 
+PyPDF2 
+python-docx 
+docx2txt 
+pathlib
+streamlit
+python-dotenv
+openpyxl
