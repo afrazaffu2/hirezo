@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📄 CV2CSV – AI Powered Resume to CSV/Excel Extractor  
 
 🚀 **CV2CSV** is an AI-powered tool that converts unstructured resumes (PDF, DOCX, DOC) into clean, structured data (CSV/Excel).  
@@ -134,3 +135,6 @@ Pull requests are welcome. If you’d like to suggest new field templates or fea
 ## 📜 License  
 
 MIT License – free to use, share, and improve.  
+=======
+# hirezo
+>>>>>>> 21657f0a0f3d0ad18a8c47b42a8e365875dce02d
